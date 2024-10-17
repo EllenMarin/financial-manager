@@ -1,6 +1,7 @@
 import { Loader2 } from 'lucide-react'
 import { SignIn, ClerkLoaded, ClerkLoading } from '@clerk/nextjs'
 import Image from 'next/image'
+import "/app/globals.css";
 
 export default function Page() {
   return (
